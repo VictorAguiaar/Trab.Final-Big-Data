@@ -20,6 +20,7 @@ i. Mostrar a coluna de bebidas do ano de 1985.
 ii. Mostrar a coluna de Região com valores acima de 4.
 
 
+
 2. Seja o dataset chamado cursos-prouni.csv que se encontra no endereço Cursos e notas de corte do
 PROUNI 2018 - Datasets - Brasil.IO. Baixe o arquivo, armazene no seu github** e obtenha os dados
 a partir desse endereço do github e realize as seguintes análises (3,0 pontos):
